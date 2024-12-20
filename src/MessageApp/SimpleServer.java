@@ -31,7 +31,5 @@ public class SimpleServer {
             serverSocket.close();
         }
 
-
-
     }
 }
